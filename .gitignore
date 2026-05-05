@@ -1,3 +1,4 @@
 .env
 __pycache__/
 *.pyc
+capitol_trades_bot/trades.log

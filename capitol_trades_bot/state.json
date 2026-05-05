@@ -1,0 +1,85 @@
+{
+  "seen_trade_ids": [
+    "20003794895",
+    "20003794896",
+    "20003794897",
+    "20003794898",
+    "20003794899",
+    "20003794900",
+    "20003794901",
+    "20003794902",
+    "20003794903",
+    "20003794904",
+    "20003794905",
+    "20003794906",
+    "20003794907",
+    "20003794908",
+    "20003794909"
+  ],
+  "last_check": "2026-05-05T09:20:34.274772",
+  "executions": [
+    {
+      "trade_id": "20003794895",
+      "ticker": "AB",
+      "action": "buy",
+      "alpaca_order_id": "1bf31fb0-1034-441a-8000-517c364cf811",
+      "executed_at": "2026-05-05T09:20:01.572717"
+    },
+    {
+      "trade_id": "20003794896",
+      "ticker": "GOOGL",
+      "action": "buy",
+      "alpaca_order_id": "5df79278-0554-4e6a-9f35-c2c3d26b9a4e",
+      "executed_at": "2026-05-05T09:20:04.807906"
+    },
+    {
+      "trade_id": "20003794897",
+      "ticker": "GOOGL",
+      "action": "buy",
+      "alpaca_order_id": "2ce4b760-c2be-4e24-8fa6-fd80a99e663c",
+      "executed_at": "2026-05-05T09:20:07.992363"
+    },
+    {
+      "trade_id": "20003794899",
+      "ticker": "AMZN",
+      "action": "buy",
+      "alpaca_order_id": "d5b50e6e-2178-4934-89f7-6d16ddb8b396",
+      "executed_at": "2026-05-05T09:20:12.354686"
+    },
+    {
+      "trade_id": "20003794901",
+      "ticker": "AMZN",
+      "action": "buy",
+      "alpaca_order_id": "6d83b722-84b2-488b-b64c-514d23280232",
+      "executed_at": "2026-05-05T09:20:16.753133"
+    },
+    {
+      "trade_id": "20003794903",
+      "ticker": "AAPL",
+      "action": "buy",
+      "alpaca_order_id": "34305857-417c-4b0e-bc6b-d8ae3d3d9d9a",
+      "executed_at": "2026-05-05T09:20:20.995773"
+    },
+    {
+      "trade_id": "20003794905",
+      "ticker": "NVDA",
+      "action": "buy",
+      "alpaca_order_id": "80f6767a-bf44-43ce-b707-876ac68eb0f8",
+      "executed_at": "2026-05-05T09:20:25.318722"
+    },
+    {
+      "trade_id": "20003794907",
+      "ticker": "NVDA",
+      "action": "buy",
+      "alpaca_order_id": "ae695a66-7163-4249-aee8-d412d5c98b24",
+      "executed_at": "2026-05-05T09:20:29.894222"
+    },
+    {
+      "trade_id": "20003794909",
+      "ticker": "TEM",
+      "action": "buy",
+      "alpaca_order_id": "ae2354bc-7fd4-429f-99df-9ac194801a70",
+      "executed_at": "2026-05-05T09:20:34.274749"
+    }
+  ]
+}
